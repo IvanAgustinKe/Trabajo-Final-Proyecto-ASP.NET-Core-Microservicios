@@ -34,9 +34,9 @@ Cada microservicio utiliza **Entity Framework Core** con LocalDB.
 En el archivo `appsettings.json` de cada microservicio:
 
 
-## "ConnectionStrings": {
-##  "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=MicroservicesDb;Trusted_Connection=True;MultipleActiveResultSets=true"
-## }  
+- "ConnectionStrings": {
+-  "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=MicroservicesDb;Trusted_Connection=True;MultipleActiveResultSets=true"
+- }  
 
 # Si querés usar otra base de datos, ajustá la propiedad DefaultConnection
 
