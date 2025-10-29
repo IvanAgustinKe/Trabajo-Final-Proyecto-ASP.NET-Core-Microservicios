@@ -1,6 +1,6 @@
 # 🧩 Microservices & React Client
 
-Este proyecto incluye tres microservicios desarrollados en .NET y una aplicación cliente SPA construida con React + Vite. El sistema permite gestionar productos, clientes y órdenes, con una interfaz web para operar sobre ellos.
+Este proyecto incluye tres microservicios desarrollados en .NET y una aplicación cliente SPA construida con React + Vite, redux sagas, micro fronted. El sistema permite gestionar productos, clientes y órdenes, con una interfaz web para operar sobre ellos.
 
 ---
 
